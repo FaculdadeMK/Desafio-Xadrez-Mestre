@@ -123,14 +123,12 @@ switch(direcao2){
    printf("Movimento Do Cavalo: \n");
     while(cavalo < 3){cavalo++;
  
-
+   }
    for (int i = 0; i < 3; i++){
   
     printf("Baixo\n");
 
    }
-
-}
 
 }
 
